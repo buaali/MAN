@@ -26,3 +26,12 @@ sh run_miniImageNet/WRN-train.sh
 ```
 sh run_miniImageNet/WRN-test.sh
 ```
+## Reference
+```
+@article{li2021multi,
+  title={Multi-Pretext Attention Network for Few-shot Learning with Self-supervision},
+  author={Li, Hainan and Tao, Renshuai and Li, Jun and Qin, Haotong and Ding, Yifu and Wang, Shuo and Liu, Xianglong},
+  journal={arXiv preprint arXiv:2103.05985},
+  year={2021}
+}
+```
