@@ -1,5 +1,5 @@
 # MAN
-code for paper:"Multi-pretext Attention Network for Few-shot Learning with Self-supervision"
+code for paper:[Multi-pretext Attention Network for Few-shot Learning with Self-supervision](https://arxiv.org/abs/2103.05985)
 
 ## Installation
 
