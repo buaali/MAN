@@ -1,5 +1,5 @@
 # MAN
-code for paper:[Multi-pretext Attention Network for Few-shot Learning with Self-supervision](https://arxiv.org/abs/2103.05985)
+implement for paper:[Multi-pretext Attention Network for Few-shot Learning with Self-supervision](https://arxiv.org/abs/2103.05985)
 
 ## Installation
 
@@ -26,7 +26,7 @@ sh run_miniImageNet/WRN-train.sh
 ```
 sh run_miniImageNet/WRN-test.sh
 ```
-## Reference
+## Citations
 ```
 @article{li2021multi,
   title={Multi-Pretext Attention Network for Few-shot Learning with Self-supervision},
